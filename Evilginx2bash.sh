@@ -11,6 +11,7 @@ cd ..
 cd ..
 cd ..
 cd evilginx2
-sudo make install
+cd evilginx2
+make
 sudo apache2 service stop 
 sudo evilginx 
