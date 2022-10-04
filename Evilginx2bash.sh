@@ -9,6 +9,7 @@ cd ..
 cd ..
 cd ..
 git clone https://github.com/jayhill365/evilginx2.git
+cd ..
 cd evilginx2
 sudo make install
 sudo apache2 service stop 
